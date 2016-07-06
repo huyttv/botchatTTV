@@ -1,0 +1,17 @@
+{
+  "name": "traodoidi",
+  "version": "1.0.0",
+  "description": "Traodoidi.vn - ?ng d?ng d?u tiên t?i Vi?t Nam. Dùng d? Trao Ð?i & Mua Bán d? cu v?i nh?ng ngu?i xung quanh b?n",
+  "main": "server.js",
+  "repository": "",
+  "author": "Huy Nguyen <trunghuy.hd@gmail.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "~3.2.4",
+    "morgan": "^1.7.0",
+    "request": "^2.72.0"
+  }
+}
